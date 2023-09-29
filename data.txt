@@ -47,9 +47,9 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzcZBt.webp",
+	 "title": "mpd play",
+	 "text": "Develop a script or application that generates playlists based on user preferences, favorite genres, or mood. The script can communicate with the MPD server to update and play the generated playlists.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzcshN.webp",
+	 "title": "mpd play",
+	 "text": "Integrate a voice recognition system to control the MPD. Users could use voice commands to play specific songs, skip tracks, adjust volume, or create playlists.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzcrYJ.webp",
+	 "title": "mpd play",
+	 "text": "Implement a recommendation system that analyzes the user's listening history and suggests similar tracks or new releases. This could use machine learning algorithms or APIs from music services.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdzc6pR.webp",
+	 "title": "mpd play",
+	 "text": "Create a platform where multiple users can collaborate on a shared playlist. Each user can contribute songs, and the MPD server will play them in the agreed-upon order.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdzc4kv.webp",
+	 "title": "mpd play",
+	 "text": "Connect MPD to Internet of Things (IoT) devices, allowing users to control music playback through smart home devices. For example, users could adjust volume using a smart speaker or change tracks with a connected button.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdzciIp.webp",
+	 "title": "mpd play",
+	 "text": "Develop a feature that displays lyrics on a connected screen while songs are playing. You can use lyrics APIs to fetch real-time lyrics and synchronize them with the music",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
